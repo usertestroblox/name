@@ -1,7 +1,7 @@
 local UserInputService = game:GetService("UserInputService")
 local hwid = game:GetService("RbxAnalyticsService"):GetClientId()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/e266cfd65ad46a67fc54b0efd38e40dd/andromida-extra/main/Atag"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/usertestroblox/name/main/default"))()
 
 local function findTextLabels(parent)
     local textLabels = {}
